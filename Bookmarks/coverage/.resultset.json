@@ -21,11 +21,12 @@
       "/Users/linusmjornstedt/Projects/touchups/Bookmarks/lib/bookmark.rb": {
         "lines": [
           1,
+          null,
           1,
-          null,
+          1,
           2,
-          null,
-          null,
+          2,
+          8,
           null,
           null,
           null,
@@ -53,6 +54,6 @@
         ]
       }
     },
-    "timestamp": 1606471912
+    "timestamp": 1606476883
   }
 }
