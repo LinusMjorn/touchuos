@@ -1,6 +1,19 @@
 {
   "RSpec": {
     "coverage": {
+      "/Users/linusmjornstedt/Projects/touchups/Bookmarks/spec/features/creating_bookmarks_spec.rb": {
+        "lines": [
+          1,
+          1,
+          1,
+          1,
+          1,
+          null,
+          1,
+          null,
+          null
+        ]
+      },
       "/Users/linusmjornstedt/Projects/touchups/Bookmarks/spec/features/viewing_bookmarks_spec.rb": {
         "lines": [
           1,
@@ -47,10 +60,18 @@
           1,
           1,
           null,
+          null,
+          null,
+          1,
+          1,
+          1,
+          null,
+          1,
+          null,
           null
         ]
       }
     },
-    "timestamp": 1606481639
+    "timestamp": 1606496550
   }
 }
