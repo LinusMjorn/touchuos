@@ -1,41 +1,11 @@
 {
   "RSpec": {
     "coverage": {
-      "/Users/linusmjornstedt/Projects/touchups/Bookmarks/spec/features/bookmark_spec.rb": {
-        "lines": [
-          1,
-          null,
-          1,
-          1,
-          1,
-          1,
-          null,
-          1,
-          1,
-          1,
-          null,
-          null,
-          null
-        ]
-      },
-      "/Users/linusmjornstedt/Projects/touchups/Bookmarks/lib/bookmark.rb": {
-        "lines": [
-          1,
-          null,
-          1,
-          1,
-          2,
-          2,
-          8,
-          null,
-          null,
-          null,
-          null
-        ]
-      },
       "/Users/linusmjornstedt/Projects/touchups/Bookmarks/spec/features/viewing_bookmarks_spec.rb": {
         "lines": [
           1,
+          null,
+          1,
           1,
           1,
           1,
@@ -44,6 +14,33 @@
           null,
           1,
           1,
+          1,
+          null,
+          null,
+          1,
+          1,
+          1,
+          null,
+          1,
+          null,
+          1,
+          1,
+          1,
+          null,
+          null
+        ]
+      },
+      "/Users/linusmjornstedt/Projects/touchups/Bookmarks/spec/units/bookmark_spec.rb": {
+        "lines": [
+          1,
+          1,
+          1,
+          null,
+          null,
+          1,
+          1,
+          1,
+          null,
           1,
           null,
           1,
@@ -54,6 +51,6 @@
         ]
       }
     },
-    "timestamp": 1606476883
+    "timestamp": 1606481639
   }
 }
