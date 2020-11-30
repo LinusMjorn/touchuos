@@ -32,6 +32,28 @@
           null
         ]
       },
+      "/Users/linusmjornstedt/Projects/touchups/Bookmarks/spec/features/updating_a_bookmark_spec.rb": {
+        "lines": [
+          1,
+          1,
+          1,
+          1,
+          1,
+          null,
+          1,
+          1,
+          null,
+          1,
+          1,
+          1,
+          null,
+          1,
+          1,
+          1,
+          null,
+          null
+        ]
+      },
       "/Users/linusmjornstedt/Projects/touchups/Bookmarks/spec/features/viewing_bookmarks_spec.rb": {
         "lines": [
           1,
@@ -102,6 +124,31 @@
           null,
           1,
           null,
+          null,
+          null,
+          1,
+          1,
+          1,
+          1,
+          null,
+          1,
+          1,
+          1,
+          1,
+          null,
+          null,
+          null,
+          1,
+          1,
+          1,
+          null,
+          1,
+          null,
+          1,
+          1,
+          1,
+          1,
+          null,
           null
         ]
       },
@@ -117,6 +164,6 @@
         ]
       }
     },
-    "timestamp": 1606751331
+    "timestamp": 1606759434
   }
 }
